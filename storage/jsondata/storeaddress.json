@@ -1,0 +1,1325 @@
+{
+"0":{
+"id":100,
+"address":"1625 Chestnut Street",
+"postal_code":"V6J 4M6",
+"lat":49.2715571,
+"long":-123.1464177
+},
+"1":{
+"id":102,
+"address":"Unit #195, 1600-15 Avenue",
+"postal_code":"V2L 3X3",
+"lat":53.9104310,
+"long":-122.7607150
+},
+"2":{
+"id":107,
+"address":"817-10 Avenue SW",
+"postal_code":"T2R 0B4",
+"lat":51.0437047,
+"long":-114.0800161
+},
+"3":{
+"id":155,
+"address":"Unit #500, 8180-11 Street SE",
+"postal_code":"T2H 3B5",
+"lat":50.9783138,
+"long":-114.0414957
+},
+"4":{
+"id":159,
+"address":"631 Yates Street",
+"postal_code":"V8W 1L2",
+"lat":48.4264645,
+"long":-123.3661333
+},
+"5":{
+"id":161,
+"address":"Unit #1103, 8882-170 Street",
+"postal_code":"T5T 3J7",
+"lat":53.5238330,
+"long":-113.6165014
+},
+"6":{
+"id":162,
+"address":"Unit #60, 20150 Langley By-Pass",
+"postal_code":"V3A 9J8",
+"lat":49.0987550,
+"long":-122.6545940
+},
+"7":{
+"id":163,
+"address":"Unit #2860, 2929 Barnett Hwy",
+"postal_code":"V3B 5R5",
+"lat":49.2769412,
+"long":-122.7994717
+},
+"8":{
+"id":164,
+"address":"#300, 5001 19th Street",
+"postal_code":"T4R 3R1",
+"lat":52.2328764,
+"long":-113.8139054
+},
+"9":{
+"id":171,
+"address":"122 Banff Avenue",
+"postal_code":"T0L 0C0",
+"lat":51.1755970,
+"long":-115.5707886
+},
+"10":{
+"id":172,
+"address":"1612-99 Street NW",
+"postal_code":"T6N 1M5",
+"lat":53.4425229,
+"long":-113.4824213
+},
+"11":{
+"id":185,
+"address":"Unit #G008B, 3625 Shaganappi Tr. NW",
+"postal_code":"T3A 0E2",
+"lat":51.0828538,
+"long":-114.1573603
+},
+"12":{
+"id":187,
+"address":"2 Queen Street West",
+"postal_code":"M5H 3X4",
+"lat":43.6524019,
+"long":-79.3793380
+},
+"13":{
+"id":201,
+"address":"Unit # M-02A, 54 Maple Valley Road",
+"postal_code":"A2H 6L8",
+"lat":48.9462023,
+"long":-57.9154387
+},
+"14":{
+"id":208,
+"address":"9255 Woodbine Avenue",
+"postal_code":"L6C 1Y9",
+"lat":43.8681476,
+"long":-79.3627362
+},
+"15":{
+"id":213,
+"address":"399 NORWHICH AVENUE",
+"postal_code":"N4S 3W4",
+"lat":43.1189482,
+"long":-80.7390109
+},
+"16":{
+"id":219,
+"address":"Unit 2, 181 Damascus Road",
+"postal_code":"B4A  0C2",
+"lat":44.7505500,
+"long":-63.6450948
+},
+"17":{
+"id":221,
+"address":"Unit #3, 225 The Boardwalk",
+"postal_code":"N2N  0B1",
+"lat":43.4354706,
+"long":-80.5605865
+},
+"18":{
+"id":223,
+"address":"Unit 129, 9226 Highway #93",
+"postal_code":"L4R 4K4",
+"lat":43.7173475,
+"long":-79.2509154
+},
+"19":{
+"id":224,
+"address":"11405 Railway Avenue East",
+"postal_code":"S9A 3G8",
+"lat":52.7765957,
+"long":-108.3070593
+},
+"20":{
+"id":225,
+"address":"Unit 49, 2441 King George Highway",
+"postal_code":"E1V 6W2",
+"lat":47.0301434,
+"long":-65.4910718
+},
+"21":{
+"id":227,
+"address":"401 Kent Street West, Unit 37",
+"postal_code":"K9V 4Z1",
+"lat":44.3501481,
+"long":-78.7593733
+},
+"22":{
+"id":228,
+"address":"636 Marcove Road",
+"postal_code":"L5T 2R7",
+"lat":43.6498325,
+"long":-79.6871138
+},
+"23":{
+"id":229,
+"address":"Unit 255, 1151 10 Avenue SW",
+"postal_code":"V1E 1T3",
+"lat":50.6943101,
+"long":-119.2984986
+},
+"24":{
+"id":230,
+"address":"Unit 1220, 400 King Street",
+"postal_code":"S4A 2B4 ",
+"lat":49.1467196,
+"long":-102.9779164
+},
+"25":{
+"id":233,
+"address":"48 Crowfoot Terrace NW",
+"postal_code":"T3G 4J8",
+"lat":51.1272471,
+"long":-114.2002468
+},
+"26":{
+"id":234,
+"address":"901 64th Avenue NE",
+"postal_code":"T2E 7P4",
+"lat":51.110450,
+"long":-114.041114
+},
+"27":{
+"id":235,
+"address":"Unit 109, 245 Robie Street",
+"postal_code":"B2N 5N6",
+"lat":45.3693976,
+"long":-63.3033468
+},
+"28":{
+"id":236,
+"address":"Unit 1380-1400, 3725 56 Street",
+"postal_code":"T9A 2V6",
+"lat":52.9526246,
+"long":-113.3900974
+},
+"29":{
+"id":237,
+"address":"Unit 2, 501 Tollgate Road West",
+"postal_code":"K6H 5R6",
+"lat":45.0403954,
+"long":-74.7604323
+},
+"30":{
+"id":238,
+"address":"Unit D10, 250 Trunk Road",
+"postal_code":"V9L 2P2",
+"lat":48.7766697,
+"long":-123.7034450
+},
+"31":{
+"id":239,
+"address":"Unit 112, 80 Great Lakes Drive",
+"postal_code":"L6R 2K7",
+"lat":43.7319394,
+"long":-79.7628212
+},
+"32":{
+"id":240,
+"address":"3465 Wye Croft Road, Unit B Bldg B3",
+"postal_code":"L6L 0B6",
+"lat":43.4500000,
+"long":-79.6833333
+},
+"33":{
+"id":241,
+"address":"Unit # 300, B3 - 147 Laird Drive",
+"postal_code":"M4G 4K1",
+"lat":43.7086835,
+"long":-79.3627170
+},
+"34":{
+"id":242,
+"address":"Unit # 101, 1250 Fanshawe Park Road W.",
+"postal_code":"N6G 5B1",
+"lat":43.0131709,
+"long":-81.3286593
+},
+"35":{
+"id":243,
+"address":"Unit # B1, 167 North Queen Street",
+"postal_code":"M9C 1A7",
+"lat":43.6190403,
+"long":-79.5557647
+},
+"36":{
+"id":244,
+"address":"Unit # 1, 135 Harwood Ave. N",
+"postal_code":"L1Z 1E8",
+"lat":43.8643369,
+"long":-79.0260097
+},
+"37":{
+"id":245,
+"address":"Unit 135, 689 Westville Rd.",
+"postal_code":"B2H 2J6",
+"lat":45.5787052,
+"long":-62.6639747
+},
+"38":{
+"id":246,
+"address":"Unit # 600, 5771 Marine Way",
+"postal_code":"V5J 0A6",
+"lat":49.1998417,
+"long":-122.9765991
+},
+"39":{
+"id":247,
+"address":"Unit # 120 - 350R Shawville Blvd. SE",
+"postal_code":"T2Y 3S4",
+"lat":50.8985091,
+"long":-114.0626891
+},
+"40":{
+"id":248,
+"address":"261055 Crossiron Blvd.",
+"postal_code":"T4A 0G3",
+"lat":51.2003475,
+"long":-113.9960292
+},
+"41":{
+"id":249,
+"address":"120 - 8 Ave. SW",
+"postal_code":"T2P 1B3",
+"lat":51.0456382,
+"long":-114.0644545
+},
+"42":{
+"id":250,
+"address":"Unit 102, 7501 44 Street",
+"postal_code":"T9V 0X9",
+"lat":53.2779923,
+"long":-110.0367144
+},
+"43":{
+"id":251,
+"address":"Unit #2074, 1800 Sheppard Ave East",
+"postal_code":"M2J 5A7",
+"lat":43.7787787,
+"long":-79.3447208
+},
+"44":{
+"id":252,
+"address":"Unit #1, 12730 Highway 50",
+"postal_code":"L7E 4G1",
+"lat":43.8604131,
+"long":-79.7115780
+},
+"45":{
+"id":253,
+"address":"Bldg. G, 320 Taunton Road East",
+"postal_code":"L1R 0H4",
+"lat":43.9176047,
+"long":-78.9475422
+},
+"46":{
+"id":254,
+"address":"Unit #M7, 1111 Elgin Street West",
+"postal_code":"K9A 5H7",
+"lat":43.9706637,
+"long":-78.2025234
+},
+"47":{
+"id":255,
+"address":"Unit #HH4, 17600 Yonge Street",
+"postal_code":"L3Y 4Z1",
+"lat":44.0549218,
+"long":-79.4803509
+},
+"48":{
+"id":256,
+"address":"Unit# E57, 800 Grand Lake Road",
+"postal_code":"B1P 6S9",
+"lat":46.1456911,
+"long":-60.1383199
+},
+"49":{
+"id":257,
+"address":"Unit #A03, 2445 Appleby Line",
+"postal_code":"L7L 0B6",
+"lat":43.4066075,
+"long":-79.8078951
+},
+"50":{
+"id":258,
+"address":"Unit 10-2, 25 Lemlair Row",
+"postal_code":"B3B 0C6",
+"lat":44.6989361,
+"long":-63.5672728
+},
+"51":{
+"id":259,
+"address":"CRU#R1, 435 Stone Road West",
+"postal_code":"N1G 2X6",
+"lat":43.5187050,
+"long":-80.2374383
+},
+"52":{
+"id":260,
+"address":"Unit #D7, 11626 Sarcee Trail NW",
+"postal_code":"T3R 0A1",
+"lat":51.1575384,
+"long":-114.1621374
+},
+"53":{
+"id":262,
+"address":"Unit #A4, 1500 Riverside Drive",
+"postal_code":"P4R 1A1",
+"lat":48.4725477,
+"long":-81.3822838
+},
+"54":{
+"id":263,
+"address":"Unit #B4, 1920 Eglinton Avenue East",
+"postal_code":"M1L 2L9",
+"lat":43.7274339,
+"long":-79.2904923
+},
+"55":{
+"id":264,
+"address":"Unit #2, 125 Riocan Avenue",
+"postal_code":"K2J 5G4",
+"lat":45.2691733,
+"long":-75.7408920
+},
+"56":{
+"id":265,
+"address":"1225 St. Mary’s Road",
+"postal_code":"R2M 5E5",
+"lat":49.828991,
+"long":-97.114766
+},
+"57":{
+"id":266,
+"address":"Unit # Q1, 785 Kanata Avenue",
+"postal_code":"K2T 1H8",
+"lat":45.3120318,
+"long":-75.9113775
+},
+"58":{
+"id":267,
+"address":"Unit # 101, 2701 Skaha Lake Road",
+"postal_code":"V2A 9B8",
+"lat":49.4645332,
+"long":-119.5872541
+},
+"59":{
+"id":268,
+"address":"Unit #51, 1933 Regent Street",
+"postal_code":"P3E 5R2",
+"lat":46.4500854,
+"long":-81.0016287
+},
+"60":{
+"id":270,
+"address":"Unit #1160, 33 Heritage Meadows Way SE",
+"postal_code":"T2H 3B8",
+"lat":50.9825630,
+"long":-114.0388705
+},
+"61":{
+"id":271,
+"address":"Unit #D6, 285 Geneva Street",
+"postal_code":"L2N 2G1",
+"lat":43.1781740,
+"long":-79.2448140
+},
+"62":{
+"id":272,
+"address":"Unit # 1140, 6551 No. 3 Road",
+"postal_code":"V6Y 2B6",
+"lat":49.1665092,
+"long":-123.1378114
+},
+"63":{
+"id":273,
+"address":"Unit # 330, 355 Hespeler Road",
+"postal_code":"N1R 6B3",
+"lat":43.3936987,
+"long":-80.3210193
+},
+"64":{
+"id":274,
+"address":"Unit #1, 7001 Mumford Road",
+"postal_code":"B3L 4L9",
+"lat":44.6482273,
+"long":-63.6205274
+},
+"65":{
+"id":275,
+"address":"Unit # 1, 3275 Monarch Drive",
+"postal_code":"L3V 7Z4",
+"lat":44.6100164,
+"long":-79.4510956
+},
+"66":{
+"id":276,
+"address":"Unit #102, 9855 Austin Avenue",
+"postal_code":"V3J 1N4",
+"lat":49.2516991,
+"long":-122.8961476
+},
+"67":{
+"id":277,
+"address":"# 124 Edmonton City Centre, Main Level",
+"postal_code":"T5J 2Y9",
+"lat":53.5333333,
+"long":-113.5000000
+},
+"68":{
+"id":278,
+"address":"Unit # 0340, 4900-27Street",
+"postal_code":"V1T 7G7",
+"lat":50.2670137,
+"long":-119.2720107
+},
+"69":{
+"id":279,
+"address":"595 Murphy Road",
+"postal_code":"N7S 6K1",
+"lat":42.9767002,
+"long":-82.3667079
+},
+"70":{
+"id":280,
+"address":"Unit #102, 19 Riedel Street",
+"postal_code":"T9H 3H8",
+"lat":56.7225146,
+"long":-111.3642598
+},
+"71":{
+"id":281,
+"address":"Unit #96, 4307 130 Avenue SE",
+"postal_code":"T2Z 3V8",
+"lat":50.9293501,
+"long":-113.9724496
+},
+"72":{
+"id":282,
+"address":"3115 Massey Drive",
+"postal_code":"V2N 2S9",
+"lat":53.9001522,
+"long":-122.7781699
+},
+"73":{
+"id":283,
+"address":"Building B, 7850 Weston Road",
+"postal_code":" L4L 9N8",
+"lat":43.7920985,
+"long":-79.5493013
+},
+"74":{
+"id":284,
+"address":"Unit #3Y200A (for couriers) 1381 Regent Street",
+"postal_code":"E3C 1A2",
+"lat":45.9336009,
+"long":-66.6624615
+},
+"75":{
+"id":285,
+"address":"9123 Commercial Street",
+"postal_code":"B4N 3E6",
+"lat":45.0672788,
+"long":-64.4516611
+},
+"76":{
+"id":287,
+"address":"Unit 1B, 547 Steeles Avenue",
+"postal_code":"L6W 4P9",
+"lat":43.6781436,
+"long":-79.7198142
+},
+"77":{
+"id":288,
+"address":"Unit D18/19, 55 Ontario Street South",
+"postal_code":"L9T 2M3",
+"lat":43.5178857,
+"long":-79.8758303
+},
+"78":{
+"id":290,
+"address":"Unit #311A, 1150 Douglas Street",
+"postal_code":"V8W 3M9",
+"lat":48.4250195,
+"long":-123.3656632
+},
+"79":{
+"id":291,
+"address":"Unit #93, 1105 Wellington Road",
+"postal_code":"N6E 1V4",
+"lat":42.9307053,
+"long":-81.2265372
+},
+"80":{
+"id":292,
+"address":"Unit 119, 221 Glendale Avenue",
+"postal_code":"L2T 2K9",
+"lat":43.1336381,
+"long":-79.2243102
+},
+"81":{
+"id":293,
+"address":"Unit #14, 1925 Dundas Street East",
+"postal_code":"N5V 1P7",
+"lat":43.0048864,
+"long":-81.1754817
+},
+"82":{
+"id":294,
+"address":"Unit # 1, 785 Britannia Road West",
+"postal_code":"L5V 2Y1",
+"lat":43.6108108,
+"long":-79.6995127
+},
+"83":{
+"id":296,
+"address":"Unit #101, 300 Lakeshore Drive",
+"postal_code":"P1A 3V2",
+"lat":46.2831484,
+"long":-79.4487547
+},
+"84":{
+"id":297,
+"address":"Unit Y005, 519 Westmoreland Road (AcAllister Place Mall)",
+"postal_code":"E2J 3W9",
+"lat":45.2733153,
+"long":-66.0633081
+},
+"85":{
+"id":298,
+"address":"Unit #L019A, 645 Lansdowne Street West",
+"postal_code":"K9J 7Y5",
+"lat":44.2835644,
+"long":-78.3308736
+},
+"86":{
+"id":299,
+"address":"Unit #0515, 999 Upper Wentworth Street",
+"postal_code":"L9A 4X5",
+"lat":43.2173548,
+"long":-79.8619235
+},
+"87":{
+"id":300,
+"address":"Unit #Y0500, 1320 West Trans Canada Hwy",
+"postal_code":"V1S 1J2",
+"lat":50.6543912,
+"long":-120.3710924
+},
+"88":{
+"id":303,
+"address":"Unit #250A, 2525 36th Street N.E.",
+"postal_code":"T1Y 5T4",
+"lat":51.0733852,
+"long":-113.9876926
+},
+"89":{
+"id":304,
+"address":"Unit #13, 1235 Main Street North",
+"postal_code":"S6H 6M4",
+"lat":50.4042905,
+"long":-105.5303636
+},
+"90":{
+"id":308,
+"address":"Unit #190, 3803 Calgary Trail S.",
+"postal_code":"T6J 5M8",
+"lat":53.4739100,
+"long":-113.4944183
+},
+"91":{
+"id":309,
+"address":"Unit #100W, 3625 Shaganappi Tr. NW",
+"postal_code":"T3A 0E2",
+"lat":51.0878638,
+"long":-114.1573603
+},
+"92":{
+"id":310,
+"address":"Unit L6, 6455 Macleod Trail S.W.",
+"postal_code":"T2H 0K9",
+"lat":50.9960670,
+"long":-114.0731480
+},
+"93":{
+"id":311,
+"address":"Unit BO1, 501 1st Avenue S",
+"postal_code":"T1J 4L9",
+"lat":49.6980744,
+"long":-112.8373420
+},
+"94":{
+"id":312,
+"address":"Unit#2205, 137th Avenue & 66th Street",
+"postal_code":"T5C 3C8",
+"lat":53.5992320,
+"long":-113.4430738
+},
+"95":{
+"id":313,
+"address":"Unit 1, 46 Carry Drive S.E.",
+"postal_code":"T1B 4E1",
+"lat":50.0054122,
+"long":-110.6492788
+},
+"96":{
+"id":314,
+"address":"Suite 1119, 8882 170th Street, Phase I",
+"postal_code":"T5T 4M2",
+"lat":53.5333333,
+"long":-113.5000000
+},
+"97":{
+"id":316,
+"address":"109 Street & Princess Elizabeth Ave.",
+"postal_code":"T5G 3A6",
+"lat":53.5652774,
+"long":-113.5055746
+},
+"98":{
+"id":317,
+"address":"Unit 2, 2460 Winston Churchill Blvd E",
+"postal_code":"L6H 6J5",
+"lat":43.5212783,
+"long":-79.6796568
+},
+"99":{
+"id":318,
+"address":"Unit #76, 100 Anderson Rd. S.E.",
+"postal_code":"T2J 3V1",
+"lat":50.9505402,
+"long":-114.0665841
+},
+"100":{
+"id":319,
+"address":"Unit A-30, 7555 Montrose Road",
+"postal_code":"L2H 2E9",
+"lat":43.0672651,
+"long":-79.1227862
+},
+"101":{
+"id":320,
+"address":"Unit 103, 375 St. Albert Road",
+"postal_code":"T8N 3K8",
+"lat":53.6405958,
+"long":-113.6249791
+},
+"102":{
+"id":322,
+"address":"Unit Y-006, 945 Gardiners Road",
+"postal_code":"K7M 7H4",
+"lat":44.2573091,
+"long":-76.5685188
+},
+"103":{
+"id":323,
+"address":"Unit #503, 1100 Pembroke Street East",
+"postal_code":"K8A 6Y7",
+"lat":45.8205500,
+"long":-77.0839288
+},
+"104":{
+"id":325,
+"address":"Unit #A22A, 500 Rexdale Blvd",
+"postal_code":"M9W 6K5",
+"lat":43.7194383,
+"long":-79.6008261
+},
+"105":{
+"id":327,
+"address":"18 West Broadway",
+"postal_code":"V5Y 1P2",
+"lat":49.2630165,
+"long":-123.1052947
+},
+"106":{
+"id":328,
+"address":"Unit #405, 19800 Lougheed Hwy.",
+"postal_code":"V3Y 2W1",
+"lat":49.2257937,
+"long":-122.6762372
+},
+"107":{
+"id":329,
+"address":"2635 Gordon Road",
+"postal_code":"S4S 6H7",
+"lat":50.4044677,
+"long":-104.6192597
+},
+"108":{
+"id":330,
+"address":"Unit# Y005, 1200 St. Laurent Blvd.",
+"postal_code":"K1K 3B8",
+"lat":45.4208201,
+"long":-75.6354422
+},
+"109":{
+"id":334,
+"address":"1000 Park Royal Mall South",
+"postal_code":"V7T 1A1",
+"lat":49.3374940,
+"long":-123.1601230
+},
+"110":{
+"id":335,
+"address":"Unit #0300, 2271 Harvey Avenue",
+"postal_code":"V1Y 6H2",
+"lat":49.8806956,
+"long":-119.4395769
+},
+"111":{
+"id":336,
+"address":"Suite #104, 805 Cloverdale Avenue",
+"postal_code":"V8X 2S9",
+"lat":48.4504255,
+"long":-123.3704628
+},
+"112":{
+"id":337,
+"address":"777 Dunsmuir Street",
+"postal_code":"V7Y 1A1",
+"lat":49.2848140,
+"long":-123.1163870
+},
+"113":{
+"id":338,
+"address":"3310 - 8th Street East",
+"postal_code":"S7H 5M3",
+"lat":52.1145733,
+"long":-106.6030224
+},
+"114":{
+"id":339,
+"address":"Unit 500, 1403 Central Avenue",
+"postal_code":"S6V 7J4",
+"lat":53.1995686,
+"long":-105.7542743
+},
+"115":{
+"id":340,
+"address":"Unit 0124A and Kiosk 0702K, 25 Peel Centre Drive",
+"postal_code":"L6T 3R5",
+"lat":43.7152636,
+"long":-79.7237811
+},
+"116":{
+"id":341,
+"address":"2223 Victoria Avenue East",
+"postal_code":"S4N 6E4",
+"lat":50.4469878,
+"long":-104.5499125
+},
+"117":{
+"id":342,
+"address":"Unit #T215C, 201-1 Avenue South",
+"postal_code":"S7K 1J9",
+"lat":52.1275506,
+"long":-106.6671508
+},
+"118":{
+"id":344,
+"address":"Units 120, 12101 72 Avenue",
+"postal_code":"V3W 2M1",
+"lat":49.1058970,
+"long":-122.8279560
+},
+"119":{
+"id":345,
+"address":"Unit 3, 1910 Pembina Hwy South",
+"postal_code":"R3T 4S5",
+"lat":49.8215330,
+"long":-97.1525733
+},
+"120":{
+"id":346,
+"address":"Unit 130A, 1485 Portage Avenue",
+"postal_code":"R3G 0W4",
+"lat":49.8812934,
+"long":-97.1995640
+},
+"121":{
+"id":347,
+"address":"Unit #1, 1570 Regent Avenue",
+"postal_code":"R2C 2Y9",
+"lat":49.8970547,
+"long":-97.0628766
+},
+"122":{
+"id":348,
+"address":"Unit 15, 2020 Sherwood Place",
+"postal_code":"T8A 3H9",
+"lat":53.5311503,
+"long":-113.2954464
+},
+"123":{
+"id":349,
+"address":"Unit 200, 390 North Front Street",
+"postal_code":"K8P 3E1",
+"lat":44.1890941,
+"long":-77.3974581
+},
+"124":{
+"id":350,
+"address":"Unit #0580, 1642 Merivale Road",
+"postal_code":"K2G 4A1",
+"lat":45.3457812,
+"long":-75.7306022
+},
+"125":{
+"id":351,
+"address":"Unit 120, 1355 Kingston Road",
+"postal_code":"L1V 1B8",
+"lat":43.8370456,
+"long":-79.0886906
+},
+"126":{
+"id":352,
+"address":"777 Guelph Line",
+"postal_code":"L7R 3N2",
+"lat":43.3453803,
+"long":-79.7948125
+},
+"127":{
+"id":353,
+"address":"1349 LaSalle Blvd",
+"postal_code":"P3A 1Z2",
+"lat":46.5220256,
+"long":-80.9471218
+},
+"128":{
+"id":354,
+"address":"Unit 117-8, 1 Promenade Circle",
+"postal_code":"L4J 4P8",
+"lat":43.8090933,
+"long":-79.4532924
+},
+"129":{
+"id":355,
+"address":"199 Rathburn Road",
+"postal_code":"L5B 4C1",
+"lat":43.5937650,
+"long":-79.6480402
+},
+"130":{
+"id":356,
+"address":"550 King Street North",
+"postal_code":"N2L 5W6",
+"lat":43.4980824,
+"long":-80.5274971
+},
+"131":{
+"id":357,
+"address":"Unit 3, 1735 Richmond Street",
+"postal_code":"N5X 3Y2",
+"lat":43.0283656,
+"long":-81.2836164
+},
+"132":{
+"id":358,
+"address":"Unit D, 5100 Erin Mills Parkway",
+"postal_code":"L5M 4Z5",
+"lat":43.5594666,
+"long":-79.7079064
+},
+"133":{
+"id":359,
+"address":"1000 Fort William Road",
+"postal_code":"P7B 6B9",
+"lat":48.4046542,
+"long":-89.2436553
+},
+"134":{
+"id":361,
+"address":"Unit 126, 6631 Island Hwy. North",
+"postal_code":"V9T 4T7",
+"lat":49.2352820,
+"long":-124.0486050
+},
+"135":{
+"id":362,
+"address":"Unit 1150, 419 King Street West",
+"postal_code":"L1J 2K5",
+"lat":43.8905295,
+"long":-78.8799504
+},
+"136":{
+"id":363,
+"address":"Unit 1400, 2929 Barnet Highway",
+"postal_code":"V3B 5R5",
+"lat":49.2769412,
+"long":-122.7994717
+},
+"137":{
+"id":364,
+"address":"1570 18th Street",
+"postal_code":"R7A 5C5",
+"lat":49.8264608,
+"long":-99.9620067
+},
+"138":{
+"id":365,
+"address":"Unit 1, 1375 McPhillips Stree",
+"postal_code":"R2V 3V1",
+"lat":49.9404607,
+"long":-97.1588573
+},
+"140":{
+"id":366,
+"address":"Unit 99, 45585 Luckakuck Way",
+"postal_code":"V2R 1A1",
+"lat":49.1408444,
+"long":-121.9622844
+},
+"141":{
+"id":367,
+"address":"1350 16 Street East",
+"postal_code":"N4K 6N7",
+"lat":44.5744658,
+"long":-80.9189844
+},
+"142":{
+"id":368,
+"address":"32900 South Fraser Hwy.",
+"postal_code":"V2S 5A1",
+"lat":49.0561854,
+"long":-122.3853325
+},
+"143":{
+"id":369,
+"address":"1214 Guildford Town Cntr.",
+"postal_code":"V3R 7B7",
+"lat":49.1888251,
+"long":-122.8043422
+},
+"144":{
+"id":370,
+"address":"Unit F, 215 Chain Lake Drive, Halifax Business Centre",
+"postal_code":"B3S 1C9",
+"lat":44.6488810,
+"long":-63.5753120
+},
+"145":{
+"id":371,
+"address":"430 Topsail Road",
+"postal_code":"A1E 4N1",
+"lat":47.533463,
+"long":-52.749552
+},
+"146":{
+"id":375,
+"address":"3401 Dufferin Street",
+"postal_code":"M6A 2T9",
+"lat":43.7258222,
+"long":-79.4555263
+},
+"147":{
+"id":377,
+"address":"655 Fairway Road South",
+"postal_code":"N2C 1X4",
+"lat":43.4184607,
+"long":-80.4504050
+},
+"148":{
+"id":379,
+"address":"477 Paul Street",
+"postal_code":"E1A 4X5",
+"lat":46.0982418,
+"long":-64.7602155
+},
+"149":{
+"id":380,
+"address":"Unit 1, 670 University Avenue",
+"postal_code":"C1E 1H6",
+"lat":46.2647933,
+"long":-63.1471391
+},
+"150":{
+"id":381,
+"address":"Unit #54, 1200-37 Street SW",
+"postal_code":"T3C 1S2",
+"lat":51.0432640,
+"long":-114.1411220
+},
+"151":{
+"id":382,
+"address":"Unit #S2, 1067 Ontario Street",
+"postal_code":"N5A 6W6",
+"lat":43.3693289,
+"long":-80.9447172
+},
+"152":{
+"id":383,
+"address":"75 Aberdeen Drive",
+"postal_code":"A1A 5N6",
+"lat":47.619113,
+"long":-52.717877
+},
+"153":{
+"id":384,
+"address":"Unit #150, 4747-67 Street",
+"postal_code":"T4N 6H3",
+"lat":52.2884779,
+"long":-113.8091156
+},
+"154":{
+"id":385,
+"address":"19705 Fraser Hwy",
+"postal_code":"V3A 7E9",
+"lat":49.1129828,
+"long":-122.6776134
+},
+"155":{
+"id":386,
+"address":"Unit 66A, 44 Great Northern Road",
+"postal_code":"P6B 4Y5",
+"lat":46.5250665,
+"long":-84.3193934
+},
+"156":{
+"id":387,
+"address":"Unit #E006, 5000 Hwy 7 East",
+"postal_code":"L3R 4M9",
+"lat":43.8672112,
+"long":-79.2845910
+},
+"157":{
+"id":389,
+"address":"Unit 2, 14 Martindale Cres",
+"postal_code":"L9K 1J9",
+"lat":43.2292518,
+"long":-79.9409201
+},
+"158":{
+"id":391,
+"address":"84 Lynden Road",
+"postal_code":"N3R 6B8",
+"lat":43.1736523,
+"long":-80.2401013
+},
+"159":{
+"id":392,
+"address":"Major 1, 4700 Kingsway",
+"postal_code":"V5H 4M1",
+"lat":49.2259188,
+"long":-123.0026627
+},
+"160":{
+"id":393,
+"address":"Unit M-1, 100 King Street West",
+"postal_code":"N7M 6A9",
+"lat":42.4050158,
+"long":-82.1823765
+},
+"161":{
+"id":394,
+"address":"3100 Howard Avenue",
+"postal_code":"N8X 3Y8",
+"lat":42.2746699,
+"long":-83.0035562
+},
+"162":{
+"id":395,
+"address":"Unit Y-2, 9350 Yonge Street",
+"postal_code":"L4C 5G2",
+"lat":43.8548551,
+"long":-79.4360871
+},
+"163":{
+"id":398,
+"address":"Unit 2400, 110 Place d'Orleans Drive",
+"postal_code":"K1C 2L9",
+"lat":45.4782486,
+"long":-75.5167150
+},
+"164":{
+"id":401,
+"address":"218 Yonge Street",
+"postal_code":"M5B 2H6",
+"lat":43.6538951,
+"long":-79.3801867
+},
+"165":{
+"id":419,
+"address":"Hwy 26 & 27, 509 Bayfield Street",
+"postal_code":"L4M 4Z8",
+"lat":44.4166611,
+"long":-79.7138018
+},
+"166":{
+"id":5127,
+"address":"301 Confederation Drive",
+"postal_code":"S7L 5C3",
+"lat":52.1311281,
+"long":-106.7228957
+},
+"167":{
+"id":8812,
+"address":"Unit #K1.2  35 William Kitchen Road",
+"postal_code":"M1P 5B7",
+"lat":43.7730402,
+"long":-79.2813961
+},
+"168":{
+"id":8814,
+"address":"Unit 12A, 4500 Dixie Road",
+"postal_code":"L4W 1N2",
+"lat":43.6315936,
+"long":-79.6156377
+},
+"169":{
+"id":5124,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"170":{
+"id":232,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"171":{
+"id":5126,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"172":{
+"id":158,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"173":{
+"id":195,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"174":{
+"id":5120,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"175":{
+"id":5113,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"176":{
+"id":5125,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"177":{
+"id":5133,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"178":{
+"id":5115,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"179":{
+"id":5114,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"180":{
+"id":143,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"181":{
+"id":5111,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"182":{
+"id":5132,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"183":{
+"id":5122,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"184":{
+"id":5129,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"185":{
+"id":5121,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"186":{
+"id":5131,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"187":{
+"id":5112,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"188":{
+"id":5134,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+},
+"189":{
+"id":5116,
+"address":"",
+"postal_code":"",
+"lat":0,
+"long":0
+}
+}
