@@ -8,7 +8,12 @@ final class Event extends Model
     protected $table = 'events';
     protected $fillable = ['id'];
 
-    public static function getStoreList()
+    public static function getEventList($id)
+    {
+
+    }
+
+    public static function getPointsByEvent($id)
     {
 
     }

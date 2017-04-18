@@ -3,13 +3,14 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-final class Person extends Model
+final class Record extends Model
 {
-    protected $table = 'people';
+    protected $table = 'record';
     protected $fillable = ['id'];
 
-    public static function getPersonScore($personId)
+    public static function save($request)
     {
 
     }
+
 }

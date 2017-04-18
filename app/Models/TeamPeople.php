@@ -7,9 +7,5 @@ final class TeamPeople extends Model
 {
     protected $table = 'team_people';
     protected $fillable = ['id'];
-
-    public static function getStoreList()
-    {
-
-    }
+    
 }
