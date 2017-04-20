@@ -33,20 +33,19 @@ class Controller extends BaseController
     {
         $score = 0;
         $person = Person::find($id);
-        if($person){
-            $records = Record::where('person_id', $id)->get();
-            $recordCount = 0;
-            foreach($records as $record){
-                $points = Event::find($record->event_id)->points;
-                $score = $score + $points;
-                $recordCount++;
-            }
-            $person->score = $score;
-            $person->record_count = $recordCount;
-            return $person;
-        } else {
+        if(!$person){
             return "no person " . $id;
         }
+        $records = Record::where('person_id', $id)->get();
+        $recordCount = 0;
+        foreach($records as $record){
+            $points = Event::find($record->event_id)->points;
+            $score = $score + $points;
+            $recordCount++;
+        }
+        $person->score = $score;
+        $person->record_count = $recordCount;
+        return $person;
     }
 
     public function getPlayerScore($id)
@@ -141,12 +140,11 @@ class Controller extends BaseController
     public function getTeam($id)
     {
         $team = Team::find($id);
-        if($team){
-            $team->team_people = Team::find($id)->people;
-            return $team;
-        } else {
+        if(!$team){
             return "no team " . $id;
         }
+        $team->team_people = Team::find($id)->people;
+        return $team;
     }
 
     public function playerLeaders()
