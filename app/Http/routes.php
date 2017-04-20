@@ -10,15 +10,24 @@
 | and give it the controller to call when that URI is requested.
 |
 */
-
 $app->get('/', function() use ($app) {
-    return $app->welcome();
+    return "sup";
 });
 
-$app->get('/checkUserLastLoggedIn', 'Controller@checkUserLastLoggedIn'); //prevent people from logging stuff all the time
+//submitting record
+$app->get('/api/didUserLoginThisWeek/{id}', 'Controller@didUserLoginThisWeek'); //prevent people from logging stuff all the time
+$app->get('/api/save', 'Controller@save'); //save a new record
 
-$app->get('/save', 'Controller@save'); //save a new record
+//scores
+$app->get('/api/scoreboard', 'Controller@getScoreboard');
+$app->get('/api/getTeamScoringList/{id}', 'Controller@getTeamScoringList');
+$app->get('/api/playerScore/{id}', 'Controller@getPlayerScore');
+$app->get('/api/teamScore/{id}', 'Controller@getTeamScore');
 
-$app->get('/getScoreboard', 'Controller@getScoreboard');
+//teams
+$app->get('/api/team/{id}', 'Controller@getTeam');
+$app->get('/api/teamLists', 'Controller@teamLists');
 
-$app->get('/teamLists', 'Controller@teamLists');
+//player
+$app->get('/api/player/{id}', 'Controller@getPlayer');
+$app->get('/api/playerLeaders', 'Controller@playerLeaders');

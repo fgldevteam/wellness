@@ -10,7 +10,7 @@ final class Team extends Model
 
     public function people()
     {
-        return $this->hasMany('App\Models\Person');
+        return $this->hasMany('App\Models\Person', 'team_id');
     }
 
     public static function getTeamScore($teamId)
