@@ -26,7 +26,7 @@ $app->get('/api/teamScore/{id}', 'Controller@getTeamScore');
 
 //teams
 $app->get('/api/team/{id}', 'Controller@getTeam');
-$app->get('/api/teamLists', 'Controller@teamLists');
+$app->get('/api/teams', 'Controller@teamLists');
 
 //player
 $app->get('/api/player/{id}', 'Controller@getPlayer');
