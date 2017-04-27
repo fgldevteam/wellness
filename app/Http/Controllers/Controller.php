@@ -1,6 +1,8 @@
 <?php namespace App\Http\Controllers;
 
 use Laravel\Lumen\Routing\Controller as BaseController;
+use Illuminate\Http\Request as Request;
+use Illuminate\Http\Response as Response;
 use Carbon\Carbon as Carbon;
 use App\Models\Team as Team;
 use App\Models\Person as Person;
@@ -125,7 +127,7 @@ class Controller extends BaseController
             }
             $team->score = $score;
         }
-        return $teams;
+        return $teams->sortByDesc('score')->values()->all();
     }
 
     public function teamLists()
@@ -161,5 +163,14 @@ class Controller extends BaseController
             $person->individual_score = $score;
         }
         return $people->sortByDesc('individual_score')->values()->all();
+    }
+
+    public function verifyUser(Request $request)
+    {
+        $person = Person::where('email', $request->email)->first();
+        if($person){
+            return response()->json(['verified' => 'true']);
+        }
+        return response()->json(['verified' => 'false']);
     }
 }

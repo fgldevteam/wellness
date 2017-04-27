@@ -15,6 +15,7 @@ $app->get('/', function() use ($app) {
 });
 
 //submitting record
+$app->get('/api/verifyUser', 'Controller@verifyUser');
 $app->get('/api/didUserLoginThisWeek/{id}', 'Controller@didUserLoginThisWeek'); //prevent people from logging stuff all the time
 $app->get('/api/save', 'Controller@save'); //save a new record
 
